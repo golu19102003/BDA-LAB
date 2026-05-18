@@ -83,7 +83,7 @@ After completing this lab, students will be able to:
 ### Importance:
 The BDA Lab bridges the gap between theoretical concepts and real-world big data applications. It prepares students for careers in data engineering, data analytics, and distributed systems by providing practical exposure to industry-standard tools and techniques.
 
-### RTU ML Lab Experiement:
+### RTU Big Data Analytics Lab Experiement:
 **1.** Introduction: Objective, scope, and outcomes of the course & Installation of VMWare.
 **2.** Implement the following Data Structures in Java:
 i) Linked Lists
