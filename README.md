@@ -1,6 +1,6 @@
 <img width="812" height="542" alt="1692816749106" src="https://github.com/user-attachments/assets/19a73bc7-81e2-4ee9-b262-1c8462855807" />
-<img width="1322" height="796" alt="analytics-funnel" src="https://github.com/user-attachments/assets/cedd9a71-fe4f-4850-83bd-6d783a350ddb" />
 <img width="702" height="364" alt="937771_OYalBcMGoyYc5lN0ywSXiQ" src="https://github.com/user-attachments/assets/2fe569cb-2a8c-4507-a8f3-e4ae9ae0c2fa" />
+<img width="1322" height="796" alt="analytics-funnel" src="https://github.com/user-attachments/assets/cedd9a71-fe4f-4850-83bd-6d783a350ddb" />
 <img width="2500" height="1260" alt="02_Big_Data_Analytics_The_5_Vs_Of_Big_Data_12c3aedfe8" src="https://github.com/user-attachments/assets/d4dc27d7-44a4-49ec-b8fe-1b4fe670fe0d" />
 <img width="813" height="459" alt="Presentation111" src="https://github.com/user-attachments/assets/98f89185-c7af-460d-ac57-602f6e9a69d5" />
 
@@ -85,25 +85,34 @@ The BDA Lab bridges the gap between theoretical concepts and real-world big data
 
 ### RTU Big Data Analytics Lab Experiement:
 **1.** Introduction: Objective, scope, and outcomes of the course & Installation of VMWare.
+
 **2.** Implement the following Data Structures in Java:
 i) Linked Lists
 ii) Stacks
 iii) Queues
 iv) Set
 v) Map
+
 **3.** Perform setup and installation of Hadoop in:
 i) Standalone Mode
 ii) Pseudo-Distributed Mode
 iii) Fully Distributed Mode
+
 **4.** Implement file management tasks in Hadoop:
 i) Adding files and directories
 ii) Retrieving files
 iii) Deleting files
+
 **5.**  Run a basic Word Count MapReduce program to understand the MapReduce paradigm.
+
 **6.** Write a Map Reduce program that mines weather data. Weather sensors collecting data everyhour at many locations across the globe gather a large volume of log data, which is a goodcandidate for analysis with MapReduce, since it is semi structured and record-oriented.
+
 **7.** Implement Matrix Multiplication using Hadoop MapReduce.
+
 **8.** Write a Map Reduce program that mines weather data. Weather sensors collecting data everyhour at many locations across the globe gather a large volume of log data, which is a goodcandidate for analysis with MapReduce, since it is semi structured and record-oriented.
+
 **9.** Install and Run Hive then use Hive to create, alter, and drop databases, tables, views, functions, and indexes.
+
 **10.** Solve some real life big data problems.
 
 
